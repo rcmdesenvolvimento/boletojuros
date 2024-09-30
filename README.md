@@ -1,7 +1,9 @@
 API para calcular juros de boletos vencidos.
 
 Arquitetura 
+<ol>
 <li>Hexagonal</li>
+</ol>
 
 Ferramentas
 <li>Spring Boot</li>
