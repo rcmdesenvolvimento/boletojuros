@@ -1,11 +1,11 @@
 API para calcular juros de boletos vencidos.
 
-Arquitetura 
+<h2>Arquitetura</h2>
 <ul>
 <li>Hexagonal</li>
 </ul>
 
-Ferramentas
+<h2>Ferramentas</h2>
 <ul>
 <li>Spring Boot</li>
 <li>Docker</li>
