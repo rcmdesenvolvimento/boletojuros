@@ -14,4 +14,5 @@ Ferramentas
 <li>Lombok</li>
 <li>Swagger</li>
 <li>Feign Client</li>
+<li>Map Struct</li>
 </ul>
