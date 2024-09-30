@@ -7,7 +7,8 @@ API para calcular juros de boletos vencidos.
 
 <h2>Ferramentas</h2>
 <ul>
-<li>Spring Boot</li>
+<li>Spring Boot (2.7.5)</li>
+<li>Java Versão 11</li>  
 <li>Docker</li>
 <li>Docker Compose</li>
 <li>Spring JPA</li>
