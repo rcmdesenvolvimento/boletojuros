@@ -15,5 +15,5 @@ API para calcular juros de boletos vencidos.
 <li>Lombok</li>
 <li>Swagger</li>
 <li>Feign Client</li>
-<li>Map Struct</li>
+<li>MapStruct</li>
 </ul>
