@@ -28,10 +28,6 @@ public class CalcularBoletoUseCase implements CalculoBoletoPort {
         this.salvarCalculoBoletoPort = salvarCalculoBoletoPort;
     }
 
-    public CalcularBoletoUseCase(ComplementoBoletoPort complementoBoletoPort) {
-        this.complementoBoletoPort = complementoBoletoPort;
-    }
-
     @Override
     public BoletoCalculado executar(String codigo, LocalDate dataPagamento) {
         var boleto = this.complementoBoletoPort.executar(codigo);
